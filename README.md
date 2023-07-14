@@ -7,7 +7,6 @@ Visit the website https://developer.okta.com/login/ to register your account usi
  Your screen will appear like this
  
 ![okta-dashboard](https://github.com/Nasruddinkhan/okta-with-angular-pkce-flow/assets/35895259/614705b0-527a-4b5c-b0b0-1b0f657f5fb7)
-
 # Step 3
 To expand the Applications menu, select the Application submenu, and then click on "Create App Integration." and chose the OIDC - OpenID Connect and application type single page application.
 
