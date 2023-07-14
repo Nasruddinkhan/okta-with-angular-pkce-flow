@@ -3,6 +3,8 @@
 # Step 1
 Visit the website https://developer.okta.com/login/ to register your account using your business email or company email address.
 
+# Step 2
+ Your screen will appear like this![Alt text](screencapture-dev-67676563-admin-okta-admin-getting-started-2023-07-14-21_06_03.png)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
 ## Development server
