@@ -4,12 +4,11 @@
 
 export const environment = {
   production: false,
-  oauthClientId: "",
-  oauthLoginUrl: "https://dev-67676563.okta.com/oauth2/v1/authorize",
-  oauthTokenUrl: "https://dev-67676563.okta.com/oauth2/v1/token",
-  oauthCallbackUrl: "http://localhost:4200/authorization-code/callback",
+  clientId: '',
+  loginUrl: 'https://dev-67676563.okta.com/oauth2/v1/authorize',
+  tokenUrl: 'https://dev-67676563.okta.com/oauth2/v1/token',
+  callbackUrl: 'http://localhost:4200/authorization-code/callback',
 };
-
 /*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
