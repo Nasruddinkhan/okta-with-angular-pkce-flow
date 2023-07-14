@@ -39,4 +39,6 @@ Clone the project git clone https://github.com/Nasruddinkhan/okta-with-angular-p
 When we enter the localhost:4200 it will redirect to okta
  ![login-page](https://github.com/Nasruddinkhan/okta-with-angular-pkce-flow/assets/35895259/ccd3d00f-b4c4-456b-9f22-7444f3f14b60)
 ![token](https://github.com/Nasruddinkhan/okta-with-angular-pkce-flow/assets/35895259/d2ae0dfe-31e7-46e6-b672-baf1ccaf5655)
+## Step to fixed the cors issue
+https://support.okta.com/help/s/article/CORS-error-when-accessing-Okta-APIs-from-front-end?language=en_US
 
