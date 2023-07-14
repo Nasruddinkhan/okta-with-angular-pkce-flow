@@ -21,6 +21,8 @@ Please![step-4](https://github.com/Nasruddinkhan/okta-with-angular-pkce-flow/ass
 
 # Step 5
  preview the details and copy the client id.
+ ![step-5-preview](https://github.com/Nasruddinkhan/okta-with-angular-pkce-flow/assets/35895259/d3d3b203-77d7-488d-a212-49fe085e5852)
+
 
 ## Development server
 
