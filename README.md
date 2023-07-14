@@ -11,7 +11,9 @@ Visit the website https://developer.okta.com/login/ to register your account usi
 # Step 3
 To expand the Applications menu, select the Application submenu, and then click on "Create App Integration."
 
-![okta-step-2](https://github.com/Nasruddinkhan/okta-with-angular-pkce-flow/assets/35895259/728367db-382d-422b-ae9b-71f2a0a8ca41)
+![okta-step-3](https://github.com/Nasruddinkhan/okta-with-angular-pkce-flow/assets/35895259/728367db-382d-422b-ae9b-71f2a0a8ca41)
+
+![okta-step-3 1](https://github.com/Nasruddinkhan/okta-with-angular-pkce-flow/assets/35895259/7cb22100-543e-4bc3-9f94-d853450b2d49)
 
 ## Development server
 
