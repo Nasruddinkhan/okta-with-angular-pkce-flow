@@ -31,3 +31,6 @@ Clone the project git clone https://github.com/Nasruddinkhan/okta-with-angular-p
  1] `npm install` 
 
  2] `npm ng s` 
+
+## PKCE FLOW
+![code-flow](https://github.com/Nasruddinkhan/okta-with-angular-pkce-flow/assets/35895259/ac29b886-f576-4f4e-a578-0d9a8a368422)
