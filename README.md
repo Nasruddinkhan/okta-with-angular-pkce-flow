@@ -28,9 +28,15 @@ Please![step-4](https://github.com/Nasruddinkhan/okta-with-angular-pkce-flow/ass
 
 Clone the project git clone https://github.com/Nasruddinkhan/okta-with-angular-pkce-flow and change the envoirment varible  clientId, loginUrl, tokenUrl and callbackUrl as ber your configuration
 
+
  1] `npm install` 
 
  2] `npm ng s` 
 
 ## PKCE FLOW
 ![code-flow](https://github.com/Nasruddinkhan/okta-with-angular-pkce-flow/assets/35895259/ac29b886-f576-4f4e-a578-0d9a8a368422)
+
+When we enter the localhost:4200 it will redirect to okta
+ ![login-page](https://github.com/Nasruddinkhan/okta-with-angular-pkce-flow/assets/35895259/ccd3d00f-b4c4-456b-9f22-7444f3f14b60)
+![token](https://github.com/Nasruddinkhan/okta-with-angular-pkce-flow/assets/35895259/d2ae0dfe-31e7-46e6-b672-baf1ccaf5655)
+
