@@ -14,6 +14,9 @@ To expand the Applications menu, select the Application submenu, and then click 
 
 ![okta-step-3 1](https://github.com/Nasruddinkhan/okta-with-angular-pkce-flow/assets/35895259/7cb22100-543e-4bc3-9f94-d853450b2d49)
 
+# Step 4 
+Please fill in the application name, redirect URL, and other fields based on the image provided below
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
