@@ -1,5 +1,8 @@
 # OktaWithAngularPkceFlow
 
+# Step 1
+Visit the website https://developer.okta.com/login/ to register your account using your business email or company email address.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
 ## Development server
