@@ -37,10 +37,10 @@ export class AuthComponent implements OnInit {
       .append('grant_type', 'authorization_code')
       .append('code', code)
       .append('code_verifier', localStorage.getItem('codeVerifier'))
-      .append('redirect_uri', environment.oauthCallbackUrl)
-      .append('client_id', environment.oauthClientId);
+      .append('redirect_uri', environment.callbackUrl)
+      .append('client_id', environment.clientId);
     this.http
-      .post(environment.oauthTokenUrl, payload, {
+      .post(environment.tokenUrl, payload, {
         headers: {
           'Content-Type': 'application/x-www-form-urlencoded',
         },

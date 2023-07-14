@@ -32,14 +32,14 @@ export class LoginComponent implements OnInit {
     const params = [
       'response_type=code',
       'state=' + state,
-      'client_id=' + environment.oauthClientId,
+      'client_id=' + environment.clientId,
       'scope=openid',
       'code_challenge=' + codeChallenge,
       'code_challenge_method=S256',
-      'redirect_uri=' + encodeURIComponent(environment.oauthCallbackUrl),
+      'redirect_uri=' + encodeURIComponent(environment.callbackUrl),
     ];
 
-    let url = environment.oauthLoginUrl + '?' + params.join('&');
+    let url = environment.loginUrl + '?' + params.join('&');
 
     window.location.href = url;
   }
